@@ -1,0 +1,7 @@
+bin/
+.env
+tmp/
+node_modules/
+frontend/public/assets/index.js
+frontend/public/assets/style.js
+frontend/public/assets/style.css
